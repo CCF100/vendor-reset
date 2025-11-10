@@ -25,7 +25,6 @@
 #include "soc15_common.h"
 #include "vega10_ip_offset.h"
 #include "common.h"
-#include "nv.h"
 
 int vega10_reg_base_init(struct amd_fake_dev *adev)
 {
